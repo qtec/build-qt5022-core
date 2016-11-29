@@ -1,0 +1,12 @@
+[submodule "repo/qtec-core"]
+	path = repo/qtec-core
+	url = https://github.com/qtec/meta-qtec-core.git
+[submodule "repo/java"]
+	path = repo/java
+	url = https://github.com/qtec/meta-java.git
+[submodule "repo/poky"]
+	path = repo/yocto
+	url = https://github.com/qtec/poky.git
+[submodule "repo/qt4"]
+	path = repo/qt4
+	url = git://git.yoctoproject.org/meta-qt4
